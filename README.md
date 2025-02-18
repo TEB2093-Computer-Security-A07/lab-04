@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 MD041 -->
 <p align="center" width="100%">
-    <img src="./asset/utp_logo.png" height="100" alt="UTP logo" />
+    <img src="./utp logo.png" height="100" alt="UTP logo" />
 </p>
 
 # TEB2093 Computer Security - Lab 04
@@ -29,11 +29,17 @@
 
 ### Default Code Output
 
-*(Insert the default DES encryption output here)*
+![ex2_1](./ex2_1.png)
+
+![ex2_2](./ex2_2.png)
 
 ### Custom Key & Plaintext
 
-*(Insert the result of DES encryption with custom key and plaintext here)*
+![ex2_3](./ex2_3.png)
+
+![ex2_4](./ex2_4.png)
+### Output
+![ex2_5](./ex2_5.png)
 
 ### Understanding DES Analysis
 
@@ -51,7 +57,7 @@ DES incorporates cryptographic principles such as completeness and the avalanche
 
 ### Output
 
-*(Insert the output after applying 3DES encryption here)*
+![ex3_1](./ex3_1.png)
 
 ## Experiment 4: Understanding Weaknesses and Avalanche Effect of DES and 3DES
 
@@ -145,7 +151,7 @@ int main() {
 
 ### Output
 
-*(Insert the output of the code execution here)*
+![ex4_1](./ex4_1.png)
 
 ### Avalanche Effect Analysis
 
